@@ -1,3 +1,5 @@
+The app is hosted online at https://meetup-app-vue.herokuapp.com/
+
 # vue-jest-meetup
 
 ## Project setup
